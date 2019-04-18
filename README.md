@@ -1,4 +1,4 @@
-# Consul Enterprise HA Setup
+# Vault Enterprise HA Setup
 This repo has a vagrant file to create an enterprise Vault Cluster with Consul backend.  Consists of a Vault cluster with 2 server nodes and a Consul Cluster with 3 server nodes. Vault server includes a Consul client. All servers are set without TLS.
 
 ## Pre-Requisites
