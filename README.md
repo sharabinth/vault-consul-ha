@@ -75,7 +75,7 @@ http://10.100.1.11:8500
 
 One of the Vault server nodes can be used to access the UI on port 8500
 
-http://10.100.2.11:8500 
+http://10.100.2.11:8200 
 
 
 
